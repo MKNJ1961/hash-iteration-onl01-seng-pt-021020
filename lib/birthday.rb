@@ -9,5 +9,4 @@
        puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
      end
   end
-birthday_kids
-end
+
